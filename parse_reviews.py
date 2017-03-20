@@ -1,3 +1,5 @@
+# pulls out the reviewText from a dictionary object
+
 import gzip
 
 def parse(path):

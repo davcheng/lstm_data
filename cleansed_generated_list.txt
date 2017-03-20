@@ -1,0 +1,161 @@
+Cellars
+Cellars On Brands.  "Priceline.com: More Ways
+TelePresence.
+TelePresence. "Select an our blog is only
+Rod
+Rod Miguel's Album feat. the hit ""Driven
+Clear
+Clear Package of Music for a Limited
+Out.
+Out.  Together up to Many hours
+trivago!
+trivago! every  Up to 70% Off
+Directions
+Directions 16 Daily  Exclusive Deals and
+Games!
+Games! nearby. "All Prepaid Zillion Coupons.com Down
+Crossword
+Crossword starting at Best Buy��. Order Today!
+"4.3""
+"4.3"" A6-3650 Llano 2.6Ghz APU Socket FM1.
+shot
+shot phone Day - Try Now!
+Lazarus
+Lazarus about.  Motley Fool Stock Advisor.
+WIth
+WIth Now."  Choose from a Free
+SMiLE
+SMiLE The World's Best Manga is on
+`�_9
+`�_9 Miguel's Album feat. the hit ""Driven
+"""Santa's
+"""Santa's Politics  Brilliant Df Security Solutions
+PCH.com.
+PCH.com. "Giada of PC, needs now
+All!"
+All!" Is Now Available in Facebook�� Today!
+Branson
+Branson to More at Target 4 Free
+Burlap,
+Burlap, w/TurboTax��!  Over $5 Trillion in
+Photographic
+Photographic Now."  Get your new job
+Network0
+Network0 Shows in Your Business.  Start
+Refresher.
+Refresher. True What to Work Till I
+��/Week
+��/Week  World's Largest Bookstore. Get In-Store
+App.
+App. " Book Today and Get Your
+Profiles."
+Profiles." Fusion."  Best Price when you
+$34.99/mo.
+$34.99/mo. Network!  "A Great Results On
+
+
+Condo
+Condo Selena Outlet on iTunes!  75%
+adgen@terminus:~/ml/word-rnn-tensorflow$ ls
+beam.py   data		      LICENSE.md  model.py   README.md	  sample.py  tests		training.out  utils.py
+beam.pyc  generated_list.txt  logs	  model.pyc  #sample.py#  save	     text_generator.py	train.py      utils.pyc
+adgen@terminus:~/ml/word-rnn-tensorflow$ cp generated_list.txt ../temp/generated_list.txt
+adgen@terminus:~/ml/word-rnn-tensorflow$ ls
+beam.py   data		      LICENSE.md  model.py   README.md	  sample.py  tests		training.out  utils.py
+beam.pyc  generated_list.txt  logs	  model.pyc  #sample.py#  save	     text_generator.py	train.py      utils.pyc
+adgen@terminus:~/ml/word-rnn-tensorflow$ cd ..
+adgen@terminus:~/ml$ cd temp/
+adgen@terminus:~/ml/temp$ ls
+generated_list.txt  smartphone_input.txt  text_generator.py
+adgen@terminus:~/ml/temp$ vim text_generator.py
+adgen@terminus:~/ml/temp$ ls
+generated_list.txt  smartphone_input.txt  text_generator.py
+adgen@terminus:~/ml/temp$ git add -A
+adgen@terminus:~/ml/temp$ git commit -m "adding generated list"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <adgen@terminus.(none)>) not allowed
+adgen@terminus:~/ml/temp$ git init
+Reinitialized existing Git repository in /home/adgen/ml/temp/.git/
+adgen@terminus:~/ml/temp$ git add -A
+adgen@terminus:~/ml/temp$ git commit -m "adding list"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <adgen@terminus.(none)>) not allowed
+adgen@terminus:~/ml/temp$ ls
+generated_list.txt  smartphone_input.txt  text_generator.py
+adgen@terminus:~/ml/temp$ cat generated_list.txt
+Cellars
+Cellars On Brands.  "Priceline.com: More Ways
+TelePresence.
+TelePresence. "Select an our blog is only
+Rod
+Rod Miguel's Album feat. the hit ""Driven
+Clear
+Clear Package of Music for a Limited
+Out.
+Out.  Together up to Many hours
+trivago!
+trivago! every  Up to 70% Off
+Directions
+Directions 16 Daily  Exclusive Deals and
+Games!
+Games! nearby. "All Prepaid Zillion Coupons.com Down
+Crossword
+Crossword starting at Best Buy��. Order Today!
+"4.3""
+"4.3"" A6-3650 Llano 2.6Ghz APU Socket FM1.
+shot
+shot phone Day - Try Now!
+Lazarus
+Lazarus about.  Motley Fool Stock Advisor.
+WIth
+WIth Now."  Choose from a Free
+SMiLE
+SMiLE The World's Best Manga is on
+`�_9
+`�_9 Miguel's Album feat. the hit ""Driven
+"""Santa's
+"""Santa's Politics  Brilliant Df Security Solutions
+PCH.com.
+PCH.com. "Giada of PC, needs now
+All!"
+All!" Is Now Available in Facebook�� Today!
+Branson
+Branson to More at Target 4 Free
+Burlap,
+Burlap, w/TurboTax��!  Over $5 Trillion in
+Photographic
+Photographic Now."  Get your new job
+Network0
+Network0 Shows in Your Business.  Start
+Refresher.
+Refresher. True What to Work Till I
+��/Week
+��/Week  World's Largest Bookstore. Get In-Store
+App.
+App. " Book Today and Get Your
+Profiles."
+Profiles." Fusion."  Best Price when you
+$34.99/mo.
+$34.99/mo. Network!  "A Great Results On
+Condo
+Condo Selena Outlet on iTunes!  75%
