@@ -52,57 +52,8 @@ Profiles."
 Profiles." Fusion."  Best Price when you
 $34.99/mo.
 $34.99/mo. Network!  "A Great Results On
-
-
 Condo
 Condo Selena Outlet on iTunes!  75%
-adgen@terminus:~/ml/word-rnn-tensorflow$ ls
-beam.py   data		      LICENSE.md  model.py   README.md	  sample.py  tests		training.out  utils.py
-beam.pyc  generated_list.txt  logs	  model.pyc  #sample.py#  save	     text_generator.py	train.py      utils.pyc
-adgen@terminus:~/ml/word-rnn-tensorflow$ cp generated_list.txt ../temp/generated_list.txt
-adgen@terminus:~/ml/word-rnn-tensorflow$ ls
-beam.py   data		      LICENSE.md  model.py   README.md	  sample.py  tests		training.out  utils.py
-beam.pyc  generated_list.txt  logs	  model.pyc  #sample.py#  save	     text_generator.py	train.py      utils.pyc
-adgen@terminus:~/ml/word-rnn-tensorflow$ cd ..
-adgen@terminus:~/ml$ cd temp/
-adgen@terminus:~/ml/temp$ ls
-generated_list.txt  smartphone_input.txt  text_generator.py
-adgen@terminus:~/ml/temp$ vim text_generator.py
-adgen@terminus:~/ml/temp$ ls
-generated_list.txt  smartphone_input.txt  text_generator.py
-adgen@terminus:~/ml/temp$ git add -A
-adgen@terminus:~/ml/temp$ git commit -m "adding generated list"
-
-*** Please tell me who you are.
-
-Run
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
-to set your account's default identity.
-Omit --global to set the identity only in this repository.
-
-fatal: empty ident name (for <adgen@terminus.(none)>) not allowed
-adgen@terminus:~/ml/temp$ git init
-Reinitialized existing Git repository in /home/adgen/ml/temp/.git/
-adgen@terminus:~/ml/temp$ git add -A
-adgen@terminus:~/ml/temp$ git commit -m "adding list"
-
-*** Please tell me who you are.
-
-Run
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
-to set your account's default identity.
-Omit --global to set the identity only in this repository.
-
-fatal: empty ident name (for <adgen@terminus.(none)>) not allowed
-adgen@terminus:~/ml/temp$ ls
-generated_list.txt  smartphone_input.txt  text_generator.py
-adgen@terminus:~/ml/temp$ cat generated_list.txt
 Cellars
 Cellars On Brands.  "Priceline.com: More Ways
 TelePresence.
