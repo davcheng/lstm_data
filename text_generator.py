@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # program to loop through a program and capture all outputs and store in a text file
 
+=======
+>>>>>>> 27632da34db1df044a40621c5271fd2846b8961c
 import subprocess
 
 def main():
@@ -14,4 +17,8 @@ def write_to_file(text):
 
 if __name__ == "__main__":
 	for x in xrange(500): 
+<<<<<<< HEAD
 		main()
+=======
+		main()
+>>>>>>> 27632da34db1df044a40621c5271fd2846b8961c
